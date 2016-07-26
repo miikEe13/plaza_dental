@@ -1,0 +1,1 @@
+<center><h1>Aqui van ir los pagos</h1></center>

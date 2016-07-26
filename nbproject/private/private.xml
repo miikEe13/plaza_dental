@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/views/Pacientes/Reportes/PacientesInf.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/controllers/cita.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/controllers/pagos.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/Apoyo/consultas.sql</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/controllers/login.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/controllers/doctores.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/models/model_pagos.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/views/Pacientes/Reportes/Historial_clinicoInf.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/views/Pacientes/Editar/Editar_Analisis_oclusal.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/controllers/Doctor.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/models/model_cita.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/models/model_doctor.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/views/Pacientes/Editar/Editar_Analisis_facial.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/config/autoload.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/controllers/pacientes.php</file>
+            <file>file:/C:/xampp/htdocs/plaza_dental/application/models/model_paciente.php</file>
+        </group>
+    </open-files>
+</project-private>
